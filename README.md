@@ -1,6 +1,6 @@
 # Building Instance Segmentation for Dense Urban Settlements
 
- **Additional resources from the paper from AAAI 2026 - Social Impact track **
+ Additional resources from the paper from AAAI 2026 - Social Impact track
 ---
 This repository containts the additional resources to serve as supporting material for the paper **Building Instance Segmentation for Dense Urban Settlements** in AISI 2026. We refer to the project as UDOS that we had nicknamed it internally.
 
