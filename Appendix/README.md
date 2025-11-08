@@ -1,12 +1,3 @@
-# UDOS
+# Appendix
 
-This repository holds the UDOS project.
-
-## Structure
-- (Folders/files overview here)
-
-## Getting Started
-- (Setup instructions here)
-
-## License
-- (License info here)
+This directory holds the Appendix referred to in the main paper with additional experiments and discussions.
