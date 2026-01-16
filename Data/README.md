@@ -2,7 +2,7 @@
 
  Vector datasets of five informal urban settlements
 ---
-The data are in ESRI vector shapefiles. Due to their sizes, they are linked to Google drive archives for streamlined download. 
+The data are in ESRI vector shapefiles. Due to their sizes, they are linked to Dropbox archives for streamlined download. 
 
 ## Structure
 | ID/Directory Name | Settlement Name |
